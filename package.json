@@ -2,7 +2,7 @@
   "name": "clone-drive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leandros8.github.io/clone-drive/",
+  "homepage": "https://codesdeveloper.github.io/clone-drive/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
