@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clone-drive/static/css/main.d54040fa.css",
-    "main.js": "/clone-drive/static/js/main.e6bac04a.js",
+    "main.js": "/clone-drive/static/js/main.14a8961e.js",
     "static/js/787.513e0472.chunk.js": "/clone-drive/static/js/787.513e0472.chunk.js",
     "index.html": "/clone-drive/index.html",
     "main.d54040fa.css.map": "/clone-drive/static/css/main.d54040fa.css.map",
-    "main.e6bac04a.js.map": "/clone-drive/static/js/main.e6bac04a.js.map",
+    "main.14a8961e.js.map": "/clone-drive/static/js/main.14a8961e.js.map",
     "787.513e0472.chunk.js.map": "/clone-drive/static/js/787.513e0472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d54040fa.css",
-    "static/js/main.e6bac04a.js"
+    "static/js/main.14a8961e.js"
   ]
 }
