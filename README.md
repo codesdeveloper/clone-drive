@@ -2,4 +2,4 @@
 
 <p>Clone Drive com Html, Css, Javascript, React e Firebase</p>
 
-<img src='clone-drive.png'>
+<img src='screen.png'>
